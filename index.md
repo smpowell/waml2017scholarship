@@ -3,3 +3,5 @@
 Please upload a current CV or resume in PDF format. 
 
 <script src="https://berkeley.app.box.com/upload-widget/embed.js?folderID=33789408273&title=Submit%20File%20to%202017%20WAML%20scholarship&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=pfy9of4afyvc2gpa1d6k5ywunodsvkxy" type="text/javascript"></script>
+
+<iframe src="https://berkeley.app.box.com/embed/s/bjw8ffctrs1634hn3qojdy6whuxgmexc?sortColumn=date&view=list" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
